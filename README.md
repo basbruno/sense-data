@@ -23,7 +23,14 @@ o arquivo cypress.json ja disponibilizado no repositorio possui a seguinte confi
           
       
 }
- O arquivo cypress\support\index.js possui a inclusão do comando {require('cypress-xpath')}
+ O arquivo cypress\support\index.js possui a inclusão do comando 
+ 
+ {
+ 
+ 
+require('cypress-xpath')
+ 
+ }
 
 
 
