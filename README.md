@@ -1,3 +1,6 @@
+![Cypress](https://media.giphy.com/media/IOy9bqLbbk4KsYwtmW/giphy.gif)
+
+
 # Como executar o projeto
 
 tenha em seu computador o node.js
@@ -31,6 +34,6 @@ o arquivo cypress.json ja disponibilizado no repositorio possui a seguinte confi
 require('cypress-xpath')
  
  }
-![Cypress](https://media.giphy.com/media/IOy9bqLbbk4KsYwtmW/giphy.gif)
+
 
 
