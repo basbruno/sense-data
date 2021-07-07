@@ -31,6 +31,6 @@ o arquivo cypress.json ja disponibilizado no repositorio possui a seguinte confi
 require('cypress-xpath')
  
  }
+![Cypress](https://giphy.com/gifs/IOy9bqLbbk4KsYwtmW.gif)
 
-<a href="https://giphy.com/gifs/IOy9bqLbbk4KsYwtmW">
 
